@@ -1,0 +1,21 @@
+{
+  "name": "tarjetas-json",
+  "version": "1.0.0",
+  "description": "Este proyecto es para publicar un objeto json con todas las tarjetas de BAC Credomatic de manera que se pueda consumir por otros servicios como el chat bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/guayom/tarjetas-json.git"
+  },
+  "author": "Guayo Mena",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/guayom/tarjetas-json#readme",
+  "dependencies": {
+    "contentful": "^7.0.5",
+    "fs-extra": "^7.0.0"
+  }
+}
