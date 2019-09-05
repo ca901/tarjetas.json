@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/guayom/tarjetas-json.git"
+    "url": "git@github.com:ca901/tarjetas.json.git"
   },
   "author": "Guayo Mena",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/guayom/tarjetas-json#readme",
+  "homepage": "https://github.com/ca901/tarjetas.json#readme",
   "dependencies": {
     "contentful": "^7.0.5",
     "fs-extra": "^7.0.0"
