@@ -1,0 +1,324 @@
+{
+    "tarjetas": [
+        {
+            "nombre": "CashBack Clásica American Express ",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "CashBack Dorada American Express ",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "CashBack Platino American Express ",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "CashBack Clásica Mastercard ",
+            "emisor": "Master Card",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Cashback Dorada Mastercard ",
+            "emisor": "Master Card",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "CashBack Platino Mastercard ",
+            "emisor": "Master Card",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Cashback Clásica Visa",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Cashback Dorada Visa ",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Cashback Platino Visa",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Club La Nación Pre-Pago",
+            "emisor": "American Express",
+            "color": "Pre-Pago"
+        },
+        {
+            "nombre": "Tarjeta BLUE American Express® de Credomatic",
+            "emisor": "American Express",
+            "color": "Blue"
+        },
+        {
+            "nombre": "LifeMiles Dorada American Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "LifeMiles Elite American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "LifeMiles Premium American Express",
+            "emisor": "American Express",
+            "color": "Black"
+        },
+        {
+            "nombre": "Walmart Clásica American Express",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Walmart Dorada American Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Walmart Platino American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Millas Plus Dorada American Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Millas Plus Platino American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Millas Plus Black American Express",
+            "emisor": "American Express",
+            "color": "Black"
+        },
+        {
+            "nombre": "Millas Plus Master Card Black ",
+            "emisor": "Master Card",
+            "color": "Black"
+        },
+        {
+            "nombre": "Millas Plus Visa Infinite",
+            "emisor": "Visa",
+            "color": "Black"
+        },
+        {
+            "nombre": "Millas Plus Black",
+            "emisor": "Millas Plus",
+            "color": "Millas Plus Black"
+        },
+        {
+            "nombre": "Tarjeta Diners Club",
+            "emisor": "Diners Club",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "AAdvantage Dorada America Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "AAdvantage Dorada Visa",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "AAdvantage Dorada Master Card",
+            "emisor": "Master Card",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "AAdvantage Platino American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "AAdvantage Platino Visa",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "AAdvantage Platino Master Card",
+            "emisor": "Master Card",
+            "color": "Platino"
+        },
+        {
+            "nombre": "AAdvantage Black American Express",
+            "emisor": "American Express",
+            "color": "Black"
+        },
+        {
+            "nombre": "AAdvantage Black Master Card",
+            "emisor": "Master Card",
+            "color": "Elite"
+        },
+        {
+            "nombre": "Megasuper Clásica Visa",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Megasuper Dorada Visa",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Libertad Credomatic",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "The platinum card American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Gane Premios Clásica American Express",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Gane Premios Dorada American Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Gane Premios Platino American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Gane Premios Clásica Mastercard",
+            "emisor": "Master Card",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Gane Premios Clásica Visa",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Gane Premios Dorada Mastercard",
+            "emisor": "Master Card",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Gane Premios Dorada Visa",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Gane Premios Platino Mastercard",
+            "emisor": "Master Card",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Gane Premios Platino Visa",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Platinum Card American Express",
+            "emisor": "American Express",
+            "color": "Platinum"
+        },
+        {
+            "nombre": "Tarjeta Solidarista de BAC Credomatic",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos BAC Credomatic Clásica American Express",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos BAC Credomatic Dorada Mastercard",
+            "emisor": "Master Card",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino Visa",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Puntos Credomatic Clásica Mastercard",
+            "emisor": "Master Card",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos Credomatic Clásica Visa",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos Credomatic Dorada American Express",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Dorada Visa",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino American Express",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino Mastercard",
+            "emisor": "Master Card",
+            "color": "Platino"
+        },
+        {
+            "nombre": "ConnectMiles Dorada",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": " ConnectMiles Platino Visa ",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "ConnectMiles Infinite Visa",
+            "emisor": "Visa",
+            "color": "Black"
+        },
+        {
+            "nombre": "Millas Plus Black",
+            "emisor": "Millas Plus",
+            "color": "Millas Plus Black"
+        },
+        {
+            "nombre": " INCAE Business School Black American Express ",
+            "emisor": "American Express",
+            "color": "Black (Incae)"
+        },
+        {
+            "nombre": "Club La Nación Clásica  American Express",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "PriceSmart Visa",
+            "emisor": "VISA",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "CashBack Premium",
+            "emisor": "American Express",
+            "color": "Black"
+        }
+    ]
+}
