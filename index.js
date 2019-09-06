@@ -31,6 +31,7 @@ client.getEntries({
       p.fields.variacion.map(variacion =>
         PRODUCTOS.tarjetas.push({
           nombre: variacion.fields.titulo,
+          producto: variacion.fields.producto,
           emisor: variacion.fields.emisor.fields.nombre,
           color: variacion.fields.color.fields.titulo,
         })
