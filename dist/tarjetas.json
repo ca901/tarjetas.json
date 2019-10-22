@@ -1,72 +1,6 @@
 {
     "tarjetas": [
         {
-            "nombre": "CashBack Clásica American Express ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2OoIBQ6riE6gOUIG2EMCkg/87d4a7d49fc391706cbb79486fefffaf/cr-plastico-tarjeta-cashback-mc-clasica.png",
-            "emisor": "American Express",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "CashBack Dorada American Express ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/gHlHryKv4siiUSQIuCWqe/c535ce7e2f5211f9c36c10cd2a36ffff/cr_cashback_dorada_amex.png",
-            "emisor": "American Express",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "CashBack Platino American Express ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/6oS73g0p2MmQISC2wW8wOM/7f97d29a606424100b144d89270762df/cr_cashback_platino_amex.png",
-            "emisor": "American Express",
-            "color": "Platino"
-        },
-        {
-            "nombre": "CashBack Clásica Mastercard ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/54b4lFSM3uQSue8Ks2I4CS/86a971238345bd6e420e369e5a899877/cr-tarjeta-cashback-clasica-mc.png",
-            "emisor": "Master Card",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Cashback Dorada Mastercard ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5AQWU1wMneKaews0aEuKuk/89dedcfd9b8765ddbab5e60087cf11f9/cr-tarjeta-cashback-dorada-mc.png",
-            "emisor": "Master Card",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "CashBack Platino Mastercard ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/3zTLcg0CYEgqQ6I2ceyYM2/1ddb854ab1050994a387d16adef4be5e/cr-tarjeta-cashback-platino-mc.png",
-            "emisor": "Master Card",
-            "color": "Platino"
-        },
-        {
-            "nombre": "Cashback Clásica Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/3ZzVwfqaU8UaQEQ80kAM82/f07cf78f5ac213f5e31bcc3f3ead02f7/cr-tarjeta-cashback-clasica-visa.png",
-            "emisor": "Visa",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Cashback Dorada Visa ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1ScRtaxZSImYyqEWQSyU06/2266e5ce2b220fb08d81b4a409387513/cr-tarjeta-cashback-dorada-visa.png",
-            "emisor": "Visa",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "Cashback Platino Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1RShln5hJGWSQyYeG066wO/18f4ba0539b575344475d6268dc59d14/cr-tarjeta-cashback-platino-visa.png",
-            "emisor": "Visa",
-            "color": "Platino"
-        },
-        {
-            "nombre": "Club La Nación Pre-Pago",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/3kIZxl4r20OACc08CgAOIs/a20478a5559acac63e673e27c995d947/cr-clubnacion-amex-clasico.png",
-            "emisor": "American Express",
-            "color": "Pre-Pago"
-        },
-        {
-            "nombre": "Tarjeta BLUE American Express® de Credomatic",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/6vSL3WOHxOH7ImHhtFWirw/9af600341dcf86bbee7f42b2a73b3329/cr-plastico-tarjeta-blue-amex.png",
-            "emisor": "American Express",
-            "color": "Blue"
-        },
-        {
             "nombre": "LifeMiles Dorada American Express",
             "arte": "//images.ctfassets.net/9cds0lha1plv/TiSNLamuC4cEYmuCQqMeS/0f68b8f3d623b01a57e3c30c5e352998/lifemiles-gold.png",
             "emisor": "American Express",
@@ -85,50 +19,116 @@
             "color": "Black"
         },
         {
+            "nombre": "Puntos BAC Credomatic Clásica American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1TiyzUyUPS06mOQAyk0SKW/bc44b9250e79baa8fc163abff9d385e9/puntos-clasica.png",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos BAC Credomatic Dorada Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/3EK36dXABOqk26iCEUMuoW/34e66cb74e353f9f09231cbac833883f/cr-plastico-tarjeta-puntos-mc-dorada.png",
+            "emisor": "Master Card",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1IPGx0UaWwCoge8QYSkSua/f673eb5706359860cd955f05e3e15aa7/cr-plastico-tarjeta-puntos-visa-platino.png",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Puntos Credomatic Clásica Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1qzASwtMby60I0woeEuqmg/3448c2be5b4515cc2ab6432ef3255ed4/cr-plastico-tarjeta-puntos-mc-clasica.png",
+            "emisor": "Master Card",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos Credomatic Clásica Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/egdASsMZTqm2iygMcisMU/ee0374377808ef78439d13f75450b558/cr-plastico-tarjeta-puntos-visa-clasica.png",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Puntos Credomatic Dorada American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2yL6CACmbaQ0YwMQCUaAAg/720482f809189145aeebf9db54ebb2f4/cr-plastico-tarjeta-puntos-amex-dorada.png",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Dorada Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5ioKZdsNhCICMOMogSqSMi/bbe3fa3d7400f587e46e3192950ff0e1/cr-plastico-tarjeta-puntos-visa-dorada.png",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2JPEwEf98ky8wmS24yi6Ui/ee3c1d8ad5c337946c4b6d796d16c3a5/cr-plastico-tarjeta-puntos-amex-platino.png",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Puntos Credomatic Platino Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/IfMl40Uy64scySIm2AaU0/aea3f2698b3dee521ef650cc8a8cbe45/cr-plastico-tarjeta-puntos-mc-platino.png",
+            "emisor": "Master Card",
+            "color": "Platino"
+        },
+        {
             "nombre": "Walmart Clásica American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5SUKCBtsBOcGmWGeO80K4W/7202b5504a21ac570e618563b82338bc/walmart.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5SUKCBtsBOcGmWGeO80K4W/6036437770649264fe6f8ed1a2acb8af/cr-plastico-tarjeta-walmart-amex-clasica.png",
             "emisor": "American Express",
             "color": "Clásico"
         },
         {
             "nombre": "Walmart Dorada American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2JSGCHSdyUmqqUY4MgYUIw/7256f5aeb7e1125ed575438f20de1308/cr-tarjeta-walmart-dorada-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2JSGCHSdyUmqqUY4MgYUIw/5d161024e22f87ef09e14722247e5406/cr-plastico-tarjeta-walmart-amex-dorada.png",
             "emisor": "American Express",
             "color": "Dorado"
         },
         {
             "nombre": "Walmart Platino American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/6AfHSNOH6wO4s6EMIg4K4I/4a3440e9272b8674acc92698453ea347/cr-tarjeta-walmart-platino-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/6AfHSNOH6wO4s6EMIg4K4I/d4e29bbf22d93e1f1848d426a653601a/cr-plastico-tarjeta-walmart-amex-platino.png",
             "emisor": "American Express",
             "color": "Platino"
         },
         {
+            "nombre": "Auto Mercado Platino American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/7BEqHka2jusoEAgkEM4aAo/e4fb089d7ab7e76de460758e7d2b712d/automercado-platino.png",
+            "emisor": "American Express",
+            "color": "Platinum"
+        },
+        {
+            "nombre": "Platinum Card American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1KdI3q3h0sgqsCU0eskyes/7e1a23b50c07809ebbde1295da4de3d7/cr-grcc.png",
+            "emisor": "American Express",
+            "color": "Platinum"
+        },
+        {
             "nombre": "Millas Plus Dorada American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1L5AMcjE1m7Ji6jesq13qI/e7737317e774ec3e4648e01397d5ef45/cr-plastico-tarjeta-millasplus-amex-dorada.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1L5AMcjE1m7Ji6jesq13qI/994df8cf90b36ad7819eeb9a6a2fc853/cr-plastico-tarjeta-millasplus-amex-dorada.png",
             "emisor": "American Express",
             "color": "Dorado"
         },
         {
             "nombre": "Millas Plus Platino American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/3pFYnT5Vp6YsQiA48oWEqe/f14873527b646475f5ea1e524137992d/cr-tarjeta-millasplus-platino-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/3pFYnT5Vp6YsQiA48oWEqe/391f2d23808c646090fefd85cb91ebd2/cr-plastico-tarjeta-millasplus-amex-platino.png",
             "emisor": "American Express",
             "color": "Platino"
         },
         {
             "nombre": "Millas Plus Black American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2lWL8eWrsUWKqoK8YKwO8m/f5d261aeb3c0d5a3e7aa64fc2d3b9dfd/cr-tarjeta-millasplus-black-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2lWL8eWrsUWKqoK8YKwO8m/a393d4497a0c4bbfafd0759824e378e0/cr-plastico-tarjeta-millasplus-amex-black.png",
             "emisor": "American Express",
             "color": "Black"
         },
         {
             "nombre": "Millas Plus Master Card Black ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/F0ePRjKMqkwk4sei0YGcg/0d9283d7774f70449435431aa49dfde3/cr-tarjeta-millasplus-infinite-mc.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/F0ePRjKMqkwk4sei0YGcg/b859c59182a51a8630efe8f3002822a6/cr-plastico-tarjeta-millasplus-mc-black.png",
             "emisor": "Master Card",
             "color": "Black"
         },
         {
             "nombre": "Millas Plus Visa Infinite",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5bgYStUMiQUAwYocgA06EA/4b8a59ebc9c81819466a2bf5651cf034/cr-tarjeta-millasplus-infinite-visa.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5bgYStUMiQUAwYocgA06EA/f55ccf8659b97fb11f0409f8572799d0/cr-plastico-tarjeta-millasplus-visa-infinite.png",
             "emisor": "Visa",
             "color": "Black"
         },
@@ -145,8 +145,44 @@
             "color": "Clásico"
         },
         {
+            "nombre": "Tarjeta Solidarista de BAC Credomatic",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/77T69dWgRDe87W0qyk4DYh/01ef0f2893b628c617e449f92af8110a/solidarista-cards.jpg",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Libertad Credomatic",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2HVSElgXuHmHTxJMBslYcB/263a29e1e5204eb51428df6f85a5a1cf/cr-tarjetas-libertad-cat_0.png",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "CashBack Premium",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/4z4cRX56tawIgyg48yIIGO/afb1e3c3bdbafab3d9b3a2b17edf7ef3/cr_cashback_premium.png",
+            "emisor": "American Express",
+            "color": "Black"
+        },
+        {
+            "nombre": "Tarjeta BLUE American Express® de Credomatic",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/6vSL3WOHxOH7ImHhtFWirw/2d25b727e0a3077af0007c73d0d45b8e/cr-plastico-tarjeta-blue-amex.png",
+            "emisor": "American Express",
+            "color": "Blue"
+        },
+        {
+            "nombre": "Megasuper Clásica Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2EJbuLEAeEkyWiU4msi2gU/be6042c554d67f40c316f224aac7d7be/cr-plastico-tarjeta-megasuper-visa-clasica.png",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Megasuper Dorada Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/4a9kLjtHfa4CC6Gkoe2oww/a1d0b52a97985a5f546db03b5ba53246/cr-plastico-tarjeta-megasuper-visa-clasica.png",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
             "nombre": "AAdvantage Dorada America Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/14cX8LMWZyb0vUqGGmLfe4/8ea82a373e234691108a4526ada83815/cr-plastico-tarjeta-aadvantage-visa-gold_1.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/14cX8LMWZyb0vUqGGmLfe4/edc3f3f21915c8c48b1919b06b3ad350/cr-plastico-tarjeta-aadvantage-amex-dorada.png",
             "emisor": "American Express",
             "color": "Dorado"
         },
@@ -193,196 +229,76 @@
             "color": "Elite"
         },
         {
-            "nombre": "Megasuper Clásica Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2EJbuLEAeEkyWiU4msi2gU/d0a5d6de87e5a93e3a307fe23d00d861/cr-megasuper.png",
-            "emisor": "Visa",
+            "nombre": "PriceSmart Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5x2T7vAAtBQ3yD7XRXSY8M/903a2b29938daefd58b0a27d4ad840e5/cr-plastico-tarjeta-pricesmart-amex-visa.png",
+            "emisor": "VISA",
             "color": "Clásico"
-        },
-        {
-            "nombre": "Megasuper Dorada Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/4a9kLjtHfa4CC6Gkoe2oww/4ff2746357283fe968c2a90fa1e3115b/cr-tarjeta-megasuper-dorada-visa.png",
-            "emisor": "Visa",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "Libertad Credomatic",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2HVSElgXuHmHTxJMBslYcB/263a29e1e5204eb51428df6f85a5a1cf/cr-tarjetas-libertad-cat_0.png",
-            "emisor": "American Express",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "The platinum card American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/B3tCmZyU8KaeQ82oqQg8G/aa69ce6cefe83f564c0de5f2fadeedeb/chg_plat_metal_chip_1920x1216.png",
-            "emisor": "American Express",
-            "color": "Platino"
         },
         {
             "nombre": "Gane Premios Clásica American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5Y5U3mRi9i640KaSCSWSM8/f9cff38eef027d63c9c0ffa8402827d7/gane-premios-clasica.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5Y5U3mRi9i640KaSCSWSM8/8420f4621b8b57b9b744515f173df866/cr-plastico-tarjeta-ganepremios-amex-clasica.png",
             "emisor": "American Express",
             "color": "Clásico"
         },
         {
             "nombre": "Gane Premios Dorada American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/65arMYwMp2AGmygg4SisMm/bfa4e7d0083995e107fd830b02de9b16/cr-tarjeta-ganepremios-dorada-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/65arMYwMp2AGmygg4SisMm/863756671d3f168a7129f9330d366f13/cr-plastico-tarjeta-gane-premios-amex-dorada.png",
             "emisor": "American Express",
             "color": "Dorado"
         },
         {
             "nombre": "Gane Premios Platino American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/40ufTSwZawWIiagooeysEi/a9e52a55271c16ac0a319c61e48a0e25/cr-tarjeta-ganepremios-platino-amex.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/40ufTSwZawWIiagooeysEi/7727b557765a7aeb3b268b695377797f/cr-plastico-tarjeta-gane-premios-amex-platino.png",
             "emisor": "American Express",
             "color": "Platino"
         },
         {
             "nombre": "Gane Premios Clásica Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2pOTvJIV84iWkaWGKIeWIQ/a126024cb4fd66c97af2f55f9cfc690d/cr-tarjeta-ganepremios-clasica-mc.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2pOTvJIV84iWkaWGKIeWIQ/15cd09e7d534a9b45836f39228a3c31b/cr-plastico-tarjeta-ganepremios-mc-clasica.png",
             "emisor": "Master Card",
             "color": "Clásico"
         },
         {
             "nombre": "Gane Premios Clásica Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/hEMQkURd84C0ei0qSEg2Q/69f357384baf5b4ef59b7394c7182fdc/cr-tarjeta-ganepremios-clasica-visa.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/hEMQkURd84C0ei0qSEg2Q/5d04f4bbf393a1b33fa2c2b94c5e5e5e/cr-plastico-tarjeta-ganepremios-visa-clasica.png",
             "emisor": "Visa",
             "color": "Clásico"
         },
         {
             "nombre": "Gane Premios Dorada Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/268fMlcaesI8W0maU8GMaq/f5adcd01b23d3aac37e489d02efc20f6/cr-tarjeta-ganepremios-dorada-mc.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/268fMlcaesI8W0maU8GMaq/59f5407138e365afb6255c0b9632fbc1/cr-plastico-tarjeta-ganepremios-mc-clasica_1.png",
             "emisor": "Master Card",
             "color": "Dorado"
         },
         {
             "nombre": "Gane Premios Dorada Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2acOcm3M4Myu6a8yuKcYk2/095f82fca85e0399a764529dd61b2887/cr-tarjeta-ganepremios-dorada-visa.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2acOcm3M4Myu6a8yuKcYk2/d9c42fd3bb9db97f378a26e325bc7b7d/cr-plastico-tarjeta-ganepremios-visa-dorada.png",
             "emisor": "Visa",
             "color": "Dorado"
         },
         {
             "nombre": "Gane Premios Platino Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/4OuSFf4pq8eiogqYeU8I4U/071dfe227795e202bbd040926a0153e2/cr-tarjeta-ganepremios-platino-mc.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/4OuSFf4pq8eiogqYeU8I4U/561e181fc27c2a395916e1ba57327f67/cr-plastico-tarjeta-ganepremios-mc-platino.png",
             "emisor": "Master Card",
             "color": "Platino"
         },
         {
             "nombre": "Gane Premios Platino Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5XyG72fPfUq2iguqYq6SwM/7d74f8ca47770f485eaeafd7e498ff76/cr-tarjeta-ganepremios-platino-visa.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5XyG72fPfUq2iguqYq6SwM/48067bf221c6003803dcfb954268f253/cr-plastico-tarjeta-ganepremios-visa-platino.png",
             "emisor": "Visa",
             "color": "Platino"
-        },
-        {
-            "nombre": "Platinum Card American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1KdI3q3h0sgqsCU0eskyes/7e1a23b50c07809ebbde1295da4de3d7/cr-grcc.png",
-            "emisor": "American Express",
-            "color": "Platinum"
-        },
-        {
-            "nombre": "Tarjeta Solidarista de BAC Credomatic",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/77T69dWgRDe87W0qyk4DYh/01ef0f2893b628c617e449f92af8110a/solidarista-cards.jpg",
-            "emisor": "American Express",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Puntos BAC Credomatic Clásica American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1TiyzUyUPS06mOQAyk0SKW/bc44b9250e79baa8fc163abff9d385e9/puntos-clasica.png",
-            "emisor": "American Express",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Puntos BAC Credomatic Dorada Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/3EK36dXABOqk26iCEUMuoW/82f02f22e554aa6ef31538a9ed0b32a8/cr-tarjeta-puntos-dorada-mc.png",
-            "emisor": "Master Card",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "Puntos Credomatic Platino Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1IPGx0UaWwCoge8QYSkSua/c0e6a514c5eb5ee1fc0bf75e9884c3f0/cr-tarjeta-puntos-platino-visa.png",
-            "emisor": "Visa",
-            "color": "Platino"
-        },
-        {
-            "nombre": "Puntos Credomatic Clásica Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1qzASwtMby60I0woeEuqmg/e85fdf3703ef035c7b129cb5ab643514/cr-tarjeta-puntos-clasica-mc.png",
-            "emisor": "Master Card",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Puntos Credomatic Clásica Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/egdASsMZTqm2iygMcisMU/6a183ebd4de8509899c1eb2fb3dc9194/cr-tarjeta-puntos-clasica-visa.png",
-            "emisor": "Visa",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "Puntos Credomatic Dorada American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2yL6CACmbaQ0YwMQCUaAAg/a5b1915645aae07088227fc930b19b62/cr-tarjeta-puntos-dorada-amex.png",
-            "emisor": "American Express",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "Puntos Credomatic Dorada Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5ioKZdsNhCICMOMogSqSMi/7685bb34ea5e7ac9abc07f2309d99a78/cr-tarjeta-puntos-dorada-visa.png",
-            "emisor": "Visa",
-            "color": "Dorado"
-        },
-        {
-            "nombre": "Puntos Credomatic Platino American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/2JPEwEf98ky8wmS24yi6Ui/0403cb33f000acd62f1805046a1cd963/cr-tarjeta-puntos-platino-amex.png",
-            "emisor": "American Express",
-            "color": "Platino"
-        },
-        {
-            "nombre": "Puntos Credomatic Platino Mastercard",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/IfMl40Uy64scySIm2AaU0/0591c9d11fb1b363d18dccf3ce4de341/cr-tarjeta-puntos-platino-mc.png",
-            "emisor": "Master Card",
-            "color": "Platino"
-        },
-        {
-            "nombre": "ConnectMiles Dorada",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/4DQ8VCrrfWq6iw2SC2sWGg/77f40bde4198a50d6c5542812bdf519c/connectmiles-dorada.png",
-            "emisor": "Visa",
-            "color": "Dorado"
-        },
-        {
-            "nombre": " ConnectMiles Platino Visa ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5xAa78IW1Gg4WmiIiUcmm4/de6d0d278d3d0239b74fd78b670d9b5d/cr-tarjeta-connectmiles-platinum-visa.png",
-            "emisor": "Visa",
-            "color": "Platino"
-        },
-        {
-            "nombre": "ConnectMiles Infinite Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/mYn1e82ZKS8KUyS2G4SUk/b5775bc2f21d03a8b866afcaeae75d15/cr-tarjeta-connectmiles-infinite-visa.png",
-            "emisor": "Visa",
-            "color": "Black"
-        },
-        {
-            "nombre": "Millas Plus Black",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5jlUP5Vw4dUfELe6WVnMPy/ffd3b6100432dd07214ef8406cd27df6/cr-plastico-tarjeta-millasplus-mc-black.png",
-            "emisor": "Millas Plus",
-            "color": "Millas Plus Black"
-        },
-        {
-            "nombre": " INCAE Business School Black American Express ",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1Xjd5UJN00SgGoSekyGOem/4d3bd55094bebea0c27d0fd7f34e90b5/cr-incae.png",
-            "emisor": "American Express",
-            "color": "Black (Incae)"
         },
         {
             "nombre": "Club La Nación Clásica  American Express",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/1EAjv1bjjy28MaqUeMqqeM/122eb529e386356743c1bc62cd97a893/cr-clubnacion-amex-clasico.png",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1EAjv1bjjy28MaqUeMqqeM/cd307da09d0149cae7da0a0bd84f6abb/cr-plastico-tarjeta-ganepremios-amex-clasica_1.png",
             "emisor": "American Express",
             "color": "Clásico"
         },
         {
-            "nombre": "PriceSmart Visa",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/5x2T7vAAtBQ3yD7XRXSY8M/27f10d7cf3f01bab3b9bfc68596e28dd/pricesmart-visa.png",
-            "emisor": "VISA",
-            "color": "Clásico"
-        },
-        {
-            "nombre": "CashBack Premium",
-            "arte": "//images.ctfassets.net/9cds0lha1plv/4z4cRX56tawIgyg48yIIGO/afb1e3c3bdbafab3d9b3a2b17edf7ef3/cr_cashback_premium.png",
+            "nombre": "Club La Nación Pre-Pago",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/3kIZxl4r20OACc08CgAOIs/8ff3a6996304fb69bc53e68f1b8daf5d/cr-plastico-tarjeta-ganepremios-amex-clasica_2.png",
             "emisor": "American Express",
-            "color": "Black"
+            "color": "Pre-Pago"
         }
     ]
 }
