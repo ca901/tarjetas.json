@@ -1,4 +1,4 @@
-var contentful = require('contentful')
+var contentful = require('contentful') //cambios
 const fse = require('fs-extra')
 
 var client = contentful.createClient({

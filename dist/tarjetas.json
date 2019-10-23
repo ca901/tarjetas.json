@@ -299,6 +299,90 @@
             "arte": "//images.ctfassets.net/9cds0lha1plv/3kIZxl4r20OACc08CgAOIs/8ff3a6996304fb69bc53e68f1b8daf5d/cr-plastico-tarjeta-ganepremios-amex-clasica_2.png",
             "emisor": "American Express",
             "color": "Pre-Pago"
+        },
+        {
+            "nombre": "CashBack Clásica American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/2OoIBQ6riE6gOUIG2EMCkg/131f7fede1c2496e3b739c9bdc98577d/cr-plastico-tarjeta-cashback-amex-clasica.png",
+            "emisor": "American Express",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "CashBack Dorada American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/gHlHryKv4siiUSQIuCWqe/c535ce7e2f5211f9c36c10cd2a36ffff/cr_cashback_dorada_amex.png",
+            "emisor": "American Express",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "CashBack Platino American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/6oS73g0p2MmQISC2wW8wOM/7f97d29a606424100b144d89270762df/cr_cashback_platino_amex.png",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "CashBack Clásica Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/54b4lFSM3uQSue8Ks2I4CS/aa784b20c48a6cf70569b0222e332536/cr-plastico-tarjeta-cashback-mc-clasica.png",
+            "emisor": "Mastercard",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Cashback Dorada Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5AQWU1wMneKaews0aEuKuk/7c954ee38494874554e8af48320f6eda/cr-plastico-tarjeta-cashback-mc-dorada.png",
+            "emisor": "Mastercard",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Cashback Platino Mastercard",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/3zTLcg0CYEgqQ6I2ceyYM2/3e0c7d6c45857db1990cb31e8d119097/cr-plastico-tarjeta-cashback-mc-platino.png",
+            "emisor": "Mastercard",
+            "color": "Platino"
+        },
+        {
+            "nombre": "Cashback Clásica Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/3ZzVwfqaU8UaQEQ80kAM82/4a03b9e8481949d2da97ba469af5eabd/cr-plastico-tarjeta-cashback-visa-clasica.png",
+            "emisor": "Visa",
+            "color": "Clásico"
+        },
+        {
+            "nombre": "Cashback Dorada Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1ScRtaxZSImYyqEWQSyU06/477f46af732280a11409e961623645c5/cr-plastico-tarjeta-cashback-visa-dorada.png",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "Cashback Platino Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1RShln5hJGWSQyYeG066wO/64012eaa80202e77739fd183518d395a/cr-plastico-tarjeta-cashback-visa-platino.png",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "The platinum card American Express",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/B3tCmZyU8KaeQ82oqQg8G/aa69ce6cefe83f564c0de5f2fadeedeb/chg_plat_metal_chip_1920x1216.png",
+            "emisor": "American Express",
+            "color": "Platino"
+        },
+        {
+            "nombre": "ConnectMiles Dorada",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/4DQ8VCrrfWq6iw2SC2sWGg/3d04d3e744b8de4ea6c67e4c47824b33/cr-plastico-tarjeta-connectmiles-visa-dorada.png",
+            "emisor": "Visa",
+            "color": "Dorado"
+        },
+        {
+            "nombre": "ConnectMiles Platino Visa ",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/5xAa78IW1Gg4WmiIiUcmm4/48cfb5dc48a5b07a3f3fc62cb568a0d0/cr-plastico-tarjeta-connectmiles-visa-platino.png",
+            "emisor": "Visa",
+            "color": "Platino"
+        },
+        {
+            "nombre": "ConnectMiles Infinite Visa",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/mYn1e82ZKS8KUyS2G4SUk/b2e44933e7ce466e0d8d50b4bbba7470/cr-plastico-tarjeta-connectmiles-visa-black.png",
+            "emisor": "Visa",
+            "color": "Black"
+        },
+        {
+            "nombre": "INCAE Business School Black American Express ",
+            "arte": "//images.ctfassets.net/9cds0lha1plv/1Xjd5UJN00SgGoSekyGOem/a2a6208cbff43ff90809ba3bcc94a86a/cr-plastico-tarjeta-incae-amex.png",
+            "emisor": "American Express",
+            "color": "Black (Incae)"
         }
     ]
 }
